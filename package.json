@@ -1,6 +1,6 @@
 {
   "name": "mofron-comp-iconawesome",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "icon awesome for mofron",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/simpart/mofron-comp-iconawesome.git"
+  },
+  "dependencies": {
+    "mofron-comp-fontawesome" : ""
   },
   "keywords": [
     "mofron"
